@@ -4,20 +4,7 @@ repo: astridex-status
 sites:
   - name: Astridex website
     url: https://astridex.com
-  - name: Astridex Trust Center
-    url: https://astridex-trust-center-64wh9.ondigitalocean.app
 
 status-website:
   baseUrl: /astridex-status
-  logoUrl: https://astridex-trust-center-64wh9.ondigitalocean.app/favicons/astridex.svg
   name: Astridex
-  introTitle: "Astridex system status"
-  introMessage: "Agentic AI for Finance, Accounting & Procurement. Live availability for Astridex services, checked automatically every 5 minutes."
-  theme: light
-  navbar:
-    - title: Status
-      href: /
-    - title: Trust Center
-      href: https://astridex-trust-center-64wh9.ondigitalocean.app
-    - title: Website
-      href: https://astridex.com
