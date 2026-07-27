@@ -2,8 +2,10 @@ owner: vaishnavvijay-prog
 repo: astridex-status
 
 sites:
-  - name: Astridex website
+  - name: Website
     url: https://astridex.com
+  - name: API
+    url: https://astridex.com/api/access
 
 status-website:
   baseUrl: /astridex-status
